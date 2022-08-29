@@ -2,7 +2,7 @@
 
 ### Took 20 Hours to Finish this Clone
 
-[Live Link]()
+[Live Link](https://shopify-clone-tailwind-css-fsjs.netlify.app/)
 
 ### Screenshots
 
